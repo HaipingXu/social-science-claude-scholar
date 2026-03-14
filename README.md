@@ -8,10 +8,11 @@ A production Claude Code configuration system for academic research in **Economi
 
 ## Who This Is For
 
-PhD students and researchers in:
+PhD students and researchers in **Economics** and **Political Science**. Reference journals include:
 - **Economics**: AER, QJE, JPE, REStud, Econometrica, JPubE
 - **Political Science**: APSR, AJPS, JOP, CPS, IO, World Politics
-- **Methods**: DID, IV, RDD, Synthetic Control, Text as Data, NLP
+  
+ **Research Methods**: DID, IV, RDD, Synthetic Control, Text as Data, NLP, Game Theory
 
 ---
 
