@@ -1,0 +1,26 @@
+# Sensitive configuration
+settings.json
+settings.local.json
+*.local.json
+
+# Session and runtime state
+session-logs/
+sessions/
+session-env/
+shell-snapshots/
+statsig/
+debug/
+backups/
+todos/
+plans/
+
+# Project-specific memory (contains per-project context)
+projects/
+
+# IDE
+.DS_Store
+*.swp
+*.swo
+__pycache__/
+*.pyc
+.env
