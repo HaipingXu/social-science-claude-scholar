@@ -2,7 +2,7 @@
 
 A production Claude Code configuration system for academic research in **Economics** and **Political Science** — covering the complete research lifecycle from ideation to publication.
 
-> Inspired by [pedrohcgs/claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow). Extended for social science research with causal inference, paper writing, and replication workflows.
+> Built on [Galaxy-Dawn/claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar), extended with patterns from [pedrohcgs/claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow). Specialized for social science research: causal inference, paper writing, and replication workflows.
 
 ---
 
@@ -153,7 +153,10 @@ etable([m1, sa], file="output/tables/table1.tex")
 ## Acknowledgments
 
 Built on top of Claude Code's agent/skill/hook infrastructure.
-Architecture inspired by [Pedro Sant'Anna's workflow](https://github.com/pedrohcgs/claude-code-my-workflow).
+
+Originally based on [Galaxy-Dawn/claude-scholar](https://github.com/Galaxy-Dawn/claude-scholar) — the foundational Claude Code configuration this project grew from.
+
+Architecture further inspired by [Pedro Sant'Anna's workflow](https://github.com/pedrohcgs/claude-code-my-workflow), whose adversarial QA loop, numeric quality gates, and PreCompact hook patterns were integrated in a major upgrade.
 
 ---
 
